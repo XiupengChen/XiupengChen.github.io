@@ -11,4 +11,4 @@ redirect_from:
 Short Bio
 ===
 
-I am **Xiupeng Chen**, a fourth-year Phd student at the University of Groningen. My research interests game theory and its application in power systems.
+I am **Xiupeng Chen**, a fourth-year Phd student at the University of Groningen. My research interests are game theory and its application in power systems.
