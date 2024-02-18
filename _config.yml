@@ -12,7 +12,7 @@ title                    : "Xiupeng Chen"
 title_separator          : "-"
 name                     : &name "Xiupeng Chen"
 description              : &description "personal description"
-url                      : https://xiupengchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XiupengChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiupengChen/XiupengChen.github.io"
 
