@@ -21,3 +21,5 @@ Power systems are undergoing a significant transition from the traditional model
 1. Proposing game-theoretic mechanisms to manage and coordinate emerging roles, such as prosumers and aggregators, in decentralized power systems, with the goal of integrating renewable energy resources.
 
 2. Designing distributed and privacy-preserving algorithms with theoretical guarantees to enable the effective deployment of the game-theoretic mechanisms.
+
+For future research, I am interested in developing theoretical results and data-driven methods related to game theory, including distributed robust games, Stackelberg games, data-driven equilibrium seeking, and data-driven intervention strategies. My goal is to integrate these advancements into solving decision-making problems in power systems.
