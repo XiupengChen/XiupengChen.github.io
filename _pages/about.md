@@ -16,8 +16,8 @@ I am a Phd candidate within the Discrete Technology & Production Automation grou
 Research Interests
 ===
 
-Power systems are undergoing a significant transition from the traditional model, where large, centralized power plants generate electricity and distribute it across vast regions, to a more decentralized system, where smaller, localized energy sources are increasingly integrated into the grid. While the decentralized structure creates new opportunities for power systems, it also complicates grid management and necessitate the development of new regulatory frameworks and technologies. Given the challenges in decentralized power systems, and by leveraging game theory, operator theory, and control theory, my research focuses on: 
+Power systems are undergoing a significant transition from the traditional model, where large, centralized power plants generate electricity and distribute it across vast regions, to a more decentralized system, where smaller, localized energy sources are increasingly integrated into the grid. While this decentralized structure creates new opportunities for power systems, it also complicates grid management and necessitates the development of new regulatory frameworks and technologies. Given the challenges in decentralized power systems, and by leveraging game theory, operator theory, and control theory, my research focuses on: 
 
 1. Proposing game-theoretic mechanisms to manage and coordinate emerging roles, such as prosumers and aggregators, in decentralized power systems, with the goal of integrating renewable energy resources.
- 
-2. Designing distributed and privacy-preserving algorithms with theoretical guarantees to enable the effective deployment of the proposed mechanisms.
+
+2. Designing distributed and privacy-preserving algorithms with theoretical guarantees to enable the effective deployment of the game-theoretic mechanisms.
